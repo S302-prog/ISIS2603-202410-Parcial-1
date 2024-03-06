@@ -1,1 +1,3 @@
-# ISIS2603-202410-Parcial-1
+# Parcial práctico 1
+
+Siga las instrucciones proporcionadas por el profesor de su sección.
